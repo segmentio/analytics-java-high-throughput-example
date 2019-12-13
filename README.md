@@ -4,6 +4,7 @@
 
 ## Pre-req
 ```
+0. *nix
 1. Maven
 2. JDK 8+
 3. Docker
