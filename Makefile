@@ -1,8 +1,8 @@
 build-run-container: container
-	docker run segetsy:latest
+	docker run segexample:latest
 
 container: clean compile
-	docker build -t segetsy:latest .
+	docker build -t segexample:latest .
 
 run-local: clean compile
 	java -jar target/test10rps-1.0-SNAPSHOT-jar-with-dependencies.jar

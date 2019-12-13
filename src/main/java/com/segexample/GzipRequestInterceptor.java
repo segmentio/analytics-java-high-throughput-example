@@ -1,4 +1,4 @@
-package com.segetsy;
+package com.segexample;
 
 import java.io.IOException;
 import okhttp3.*;

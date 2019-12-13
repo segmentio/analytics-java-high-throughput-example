@@ -1,4 +1,4 @@
-package com.segetsy;
+package com.segexample;
 
 import com.segment.analytics.Analytics;
 import com.segment.analytics.Callback;

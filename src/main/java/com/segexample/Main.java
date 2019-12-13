@@ -1,4 +1,4 @@
-package com.segetsy;
+package com.segexample;
 
 import com.jakewharton.retrofit.Ok3Client;
 import com.segment.analytics.Analytics;
