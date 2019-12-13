@@ -15,4 +15,4 @@
 make
 ```
 
-__For demo purpose only and not to be used in production app. Code quality == PM Code__
+__For reference only and not to be used in production env. Code quality == PM Code. Please add your own write key under `main()`__
