@@ -13,4 +13,4 @@ clean:
 compile: clean
 	mvn compile assembly:single
 
-.PHONY: run
+.PHONY: build-run-container
